@@ -1,0 +1,5 @@
+type def struct RationalC
+{
+    int numerator;
+    int denominator;
+};
